@@ -39,14 +39,37 @@ nav > a {
     color: #f5f5f5;
 }
 
-.navbar > a:focus {
-    color: #f5b3b2
-}
+
 
 .navbar > a:visited {
     color: #f5b300;
 }
 
+.navbar > a:focus {
+    color: #f5b3b2
+}
+
 h2 {
     text-align: center;
+}
+
+.pro-desc {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    background-color: #b005b0;
+    color: #f5f5f5;
+    text-align: center;
+    border: 5px solid #a004a0;
+}
+
+.pro-desc > h3 {
+    display: block;
+}
+
+.pro-desc > p {
+    display: block;
+    margin-top: 1.5%;
+    margin-left: 35%;
+    max-width: 20%;
 }
