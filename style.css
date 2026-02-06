@@ -34,3 +34,15 @@ img {
     min-width: 15%;
     min-height: 20%;
 }
+
+nav > a {
+    color: #f5f5f5;
+}
+
+nav > a:focus {
+    color: #f5b3b2
+}
+
+nav > a:visited {
+    color: #f5b300
+}

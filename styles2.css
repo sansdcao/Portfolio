@@ -119,3 +119,11 @@ nav {
     border-right: solid #0e0e0e;
     border-left: solid #0e0e0e;
 }
+
+nav > a:focus {
+    color: #f5b3b2
+}
+
+nav > a:visited {
+    color: #f5b300
+}
