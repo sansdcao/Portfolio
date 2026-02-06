@@ -174,10 +174,10 @@ address {
   border: 0;
 }
 
-nav > a:focus {
+.navbar > a:focus {
     color: #f5b3b2
 }
 
-nav > a:visited {
+.navbar > a:visited {
     color: #f5b300
 }
