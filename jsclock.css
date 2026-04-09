@@ -1,0 +1,34 @@
+* {
+    background-color: black;
+    color: #00eaea;
+    font-family: monospace;
+    text-align: center;
+}
+
+#time {
+    font-size: larger;
+    
+}
+
+#date {
+    font-size: large;
+    text-align: center;
+}
+
+#clock-container {
+    border: 5px solid #00eaea;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 0px;
+}
+
+#date-container {
+    border: 5px solid #00eaea;
+    border-top: 0px;
+    width: 30%;
+    margin: auto;
+}
+
+#leaderboard {
+    margin: auto;
+}
